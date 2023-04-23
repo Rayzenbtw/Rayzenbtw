@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Rayzenbtw
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me idk...
 
 <!---
 Rayzenbtw/Rayzenbtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
